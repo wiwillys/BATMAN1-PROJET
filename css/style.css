@@ -1,0 +1,28 @@
+/*general*/
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body {
+    /* width: 70%;
+    min-width: 800px; */
+    margin: 0 auto;
+}
+
+/*header layout*/
+header {
+    height: 750px;
+    background-image: url(../image/Bathome1.png);
+    background-size: 100%;
+    /* display: flex;
+    flex-flow: row wrap;
+    flex: 100%; */
+}
+
+nav {
+    display: flex;
+}
